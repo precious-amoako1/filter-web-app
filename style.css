@@ -1,0 +1,16 @@
+#heading
+{
+    font-size: 50px;
+    text-align: center;
+    color:azure;
+    background-color: black;
+}
+body{
+    text-align: center;
+}
+canvas{
+    background-color: rgb(127, 255, 131);
+    border-color: aqua;
+    border-radius: 20px;
+margin-top: 50px;
+}
